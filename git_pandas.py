@@ -4,7 +4,6 @@ Created on Thu Sep 20 12:45:16 2018
 
 @author: jrgan
 """
-#TEST
 #%%
 
 #Check if the related packages are ok (do not get an error)
